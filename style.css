@@ -10,6 +10,7 @@ body {
     "slnt" 0,
     "wdth" 100;
     height: 100dvh;
+    max-width: 1024px;
     background: linear-gradient(to top right, #ebdec4, white);
 }
 
@@ -66,4 +67,5 @@ div.bottom {
 }
 .info div {
     margin-top: 20px;
+
 }
