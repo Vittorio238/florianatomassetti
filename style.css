@@ -2,7 +2,7 @@
 
 body {
     margin: 0 auto;
-    padding-bottom: 50px;
+    height: 100%;
     font-size: 20px;
     font-family: "TikTok Sans", sans-serif;
     font-optical-sizing: auto;
@@ -69,6 +69,7 @@ div.bottom {
     margin-top: 20px;
 
 }
+
 
 
 
